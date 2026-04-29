@@ -88,3 +88,6 @@ with tab2:
     fig.add_hline(y=0, line_dash="dash", line_color="red")
     st.plotly_chart(fig, use_container_width=True)
     st.info("YoY Growth: 64.88%")
+    
+st.divider()
+st.caption("Maritza Ratnamaya Nugroho - CDCC011D6X0609")
